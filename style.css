@@ -96,18 +96,18 @@ body {
   }
   
   .remove-image {
-    border-radius: 50px;
-    border: solid 1.5px #35465d;
+    border-radius: 55px;
+    border: solid 1.7px #35465d;
     background-color: #35465d;
     font-family: JUA;
-    font-size: 1.1rem;
+    font-size: 1.2rem;
     color: #ffffff;
     line-height: 1.5;
     text-align: center;
   }
   
   .remove-image:hover {
-    background: #c13b2a;
+    background: #d45ece;
     color: #ffffff;
     transition: all .2s ease;
     cursor: pointer;
@@ -163,7 +163,7 @@ body {
         font-size: 1rem;
         line-height: 1.53;
         text-align: center;
-        color: #e694af;
+        color: #e7a6bc;
   }
       
   
@@ -277,7 +277,7 @@ body {
     height: 2rem;
     border-radius: 10px;
     width: 100%;
-    background-color: rgba(117, 204, 84, 0.2);
+    background-color: rgba(27, 175, 234, 0.2);
   }
   .grade-bar {
     position: absolute;
@@ -285,7 +285,7 @@ body {
     left: 0;
     height: 2rem;
     border-radius: 10px;
-    background-color: rgba(117, 204, 84, 1);
+    background-color: rgba(27, 175, 234, 1);
   }
   .health-box {
     position: absolute;
@@ -311,7 +311,7 @@ body {
     height: 2rem;
     border-radius: 10px;
     width: 100%;
-    background-color: rgba(27, 175, 234, 0.2);
+    background-color: rgba(219, 78, 184, 0.2);
   }
   .love-bar {
     position: absolute;
@@ -319,7 +319,7 @@ body {
     left: 0;
     height: 2rem;
     border-radius: 10px;
-    background-color: rgba(27, 175, 234, 1);
+    background-color: rgb(219, 78, 184, 1);
   }
   .money-box {
     position: absolute;
