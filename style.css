@@ -163,7 +163,7 @@ body {
         font-size: 1rem;
         line-height: 1.53;
         text-align: center;
-        color: var(--dark-grey-blue);
+        color: #e694af;
   }
       
   
@@ -383,7 +383,6 @@ body {
     .ad-banner {
       width: 320px;
       margin: 0 auto;
-      box-align: center;
     }
 
     .ad-banner2 {
