@@ -1,0 +1,4 @@
+User-agent: Yeti
+Allow:/
+
+Sitemap: https://21woonse.vercel.app/sitemap.xml
