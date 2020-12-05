@@ -10,7 +10,7 @@ body {
   .file-upload {
     background-color: #ffffff;
     margin: 0 auto;
-    padding: 8% 3%;
+    padding: 10% 3%;
   }
   
   .file-upload-btn {
@@ -160,12 +160,19 @@ body {
   }
   .subtitle_2 {
         font-family: JUA;
-        font-size: 1rem;
+        font-size: 0.8rem;
         line-height: 1.53;
         text-align: center;
-        color: #e7a6bc;
+        color: #cc6386;
   }
       
+  .subtitle_3 {
+    font-family: JUA;
+    font-size: 0.8rem;
+    line-height: 1.53;
+    text-align: center;
+    color: #000000;
+}
   
 @media screen and (max-width: 600px) {
     html {
